@@ -2,19 +2,6 @@
 
 <h1 align="center">Hello World !</h1>
 
-I’m a **Year 2 CPE Student** 🚀  
-But here, I’m more like an **explorer of code universes** ☄️  
-
----
-
-## ⚡ About Me  
-
-🎓 Undergraduate Student in Computer Engineering (Year 2) <br/>
-🌱 Currently learning **HTML, CSS, Node.js, Java, JavaScript, and Python**  
-✨ Building side projects to sharpen my skills  
-
----
-
 ## 💻 Tech Stack  
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&labelColor=E34F26)
